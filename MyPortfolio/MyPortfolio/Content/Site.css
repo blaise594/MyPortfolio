@@ -649,14 +649,14 @@ section {
 
 
 section#contact {
-    background-color: #222;
-    background-image: url(https://unsplash.imgix.net/44/C3EWdWzT8imxs0fKeKoC_blackforrest.JPG?q=75&fm=jpg&auto=format&s=986aaa92169d4e97975fa66ebd60bafd);
+    background-color: #f7f7f7;
     background-position: center;
     background-repeat: no-repeat;
 }
 
     section#contact .section-heading {
-        color: #fff;
+        color: #333333;
+        
     }
 
     section#contact .form-group {

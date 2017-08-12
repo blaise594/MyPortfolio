@@ -62,6 +62,5 @@ C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.Dependen
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.Web.xml
-C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb

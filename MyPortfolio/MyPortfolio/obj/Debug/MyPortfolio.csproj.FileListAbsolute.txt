@@ -64,3 +64,4 @@ C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.WindowsS
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\bin\Microsoft.AI.Web.xml
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
 C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+C:\Users\Danny\tiy\MyPortfolio\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
